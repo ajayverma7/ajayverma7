@@ -1,13 +1,12 @@
-<!-- HEADER -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Ajay%20Verma&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=40)
+# Hi there 👋 I'm Ajay Verma
 
-<!-- INTRO -->
-<h1 align="center">Hi there 👋, I'm Ajay Verma</h1>
-<h3 align="center">🚀 Aspiring Engineer | Problem Solver</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=cc57ff&size=30&center=true&vCenter=true&width=600&height=100&lines=Hi+there!+I'm+Ajay+Verma;Welcome+to+my+Cyber+Realm!" alt="Ajay Verma" />
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=F772A1&center=true&vCenter=true&lines=Second+Year+Engineering+Student;Frontend+Developer;Python+%26+JavaScript+Enthusiast;Always+Learning+New+Things" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=cc57ff&height=180&section=header&text=Ajay%20Verma&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Ajay Verma" width="100%"/>
+</div>
 
 ---
 
