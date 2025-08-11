@@ -25,27 +25,6 @@
 </p>
 
 ---
-
-## 💼 Projects
-- 🖩 [Calculator App](https://github.com/yourusername/calculator) – A clean & responsive HTML/CSS/JS calculator  
-- 🎨 [Portfolio Website](https://github.com/yourusername/portfolio) – Personal portfolio with animations  
-- 📊 [Data Visualizer](https://github.com/yourusername/data-visualizer) – Data plotting in Python  
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" height="150"/>
-</p>
-
----
-
-## 📈 Activity Graph
-[![Ajay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
 ## 🌐 Connect with Me
 <p align="left">
   <a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
