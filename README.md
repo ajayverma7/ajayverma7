@@ -29,39 +29,39 @@
 
 ---
 
-## 🛠 Skills
-
-<!-- Core Languages -->
+## 💻 Core Languages  
 <p align="center">
-  <strong>💻 Core Languages:</strong><br>
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,js" height="40"/>
-  <img src="https://img.icons8.com/color/48/sql.png" height="40"/>
+  <img src="https://skillicons.dev/icons?i=python" height="50" style="margin:10px"/>
+  <img src="https://skillicons.dev/icons?i=cpp" height="50" style="margin:10px"/>
+  <img src="https://skillicons.dev/icons?i=java" height="50" style="margin:10px"/>
+  <img src="https://skillicons.dev/icons?i=html" height="50" style="margin:10px"/>
+  <img src="https://skillicons.dev/icons?i=css" height="50" style="margin:10px"/>
+  <img src="https://skillicons.dev/icons?i=javascript" height="50" style="margin:10px"/>
+  <img src="https://skillicons.dev/icons?i=sqlite" height="50" style="margin:10px"/>
 </p>
 
-<!-- Frameworks -->
+## ⚙ Frameworks  
 <p align="center">
-  <strong>⚙ Frameworks:</strong><br>
-  <img src="https://skillicons.dev/icons?i=flask" height="40"/>
-  <img src="https://img.icons8.com/ios/50/django.png" height="40"/>
-  <img src="https://img.icons8.com/color/48/spring-logo.png" height="40"/>
+  <img src="https://skillicons.dev/icons?i=flask" height="50" style="margin:10px"/>
+  <img src="https://skillicons.dev/icons?i=django" height="50" style="margin:10px"/>
+  <img src="https://skillicons.dev/icons?i=spring" height="50" style="margin:10px"/>
 </p>
 
-<!-- Libraries -->
+## 📚 Libraries  
 <p align="center">
-  <strong>📚 Libraries:</strong><br>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="50" style="margin:10px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="50" style="margin:10px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="50" style="margin:10px"/>
+  <img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-wide-lightbg.svg" height="50" style="margin:10px"/>
 </p>
 
-<!-- Tools & Platforms -->
+## 🛠 Tools & Platforms  
 <p align="center">
-  <strong>🛠 Tools & Platforms:</strong><br>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,linux,vscode" height="40"/>
-  <img src="https://img.icons8.com/color/48/oracle-logo.png" height="40"/>
-  <img src="https://img.icons8.com/ios-filled/50/dev-c++.png" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/IDLE_Python_Icon.png" height="40"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" style="margin:10px"/>
+  <img src="https://skillicons.dev/icons?i=postgres" height="50" style="margin:10px"/>
+  <img src="https://skillicons.dev/icons?i=linux" height="50" style="margin:10px"/>
+  <img src="https://skillicons.dev/icons?i=vscode" height="50" style="margin:10px"/>
+  <img src="https://skillicons.dev/icons?i=oracle" height="50" style="margin:10px"/>
 </p>
 
 
