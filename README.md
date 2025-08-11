@@ -11,7 +11,6 @@
 ---
 
 ## 📌 About Me
- third-year Computer Science and Engineering (Data Science) student with a passion for turning ideas into impactful tech solutions.
 
 - 🎓 Currently pursuing my B.Tech in CSE (Data Science) – Third Year
 
@@ -28,7 +27,7 @@
 - 📫 Reach me at **av955356@gmail.com**  
 
 ---
-
+## Skills
 ## 💻 Core Languages  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python" height="50" style="margin:10px"/>
