@@ -14,7 +14,7 @@
  third-year Computer Science and Engineering (Data Science) student with a passion for turning ideas into impactful tech solutions.
 
 - 🎓 Currently pursuing my B.Tech in CSE (Data Science) – Third Year
-- 
+
 - 📚 Learning Machine Learning and exploring Artificial Intelligence
 
 - 💻 Skilled in Python, Java, JavaScript, HTML/CSS, SQL, and C++
