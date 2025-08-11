@@ -71,9 +71,11 @@
   <a href="https://www.linkedin.com/in/ajay-verma-2225ba2a7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
+  
   <a href="https://instagram.com/_ankitverma7" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
   </a>
+  
   <a href="mailto:av955356@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
